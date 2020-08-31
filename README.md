@@ -14,8 +14,8 @@
   - Storing answers to problems.
 
 ## CURRENT PROGRESS
-  - Problems List: 0/416 https://progress-bar.dev/0
-  - Answer List  : 0/500 https://progress-bar.dev/0
+  - Problems List: 0/416 ![0%](https://progress-bar.dev/0)
+  - Answer List  : 0/500 ![0%](https://progress-bar.dev/0)
   
 ## CREDITS
   - **Phạm Nhật Quang** (Legend0fHell)
