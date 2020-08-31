@@ -19,8 +19,8 @@
   - **Python3** (For problems that require processing big numbers etc.)
 
 ## CURRENT PROGRESS
-  - **Problems List:** 0/416 ![0%](https://progress-bar.dev/0)
-  - **Answer List  :** 0/500 ![0%](https://progress-bar.dev/0)
+  - **Problem List:** 0/416 ![0%](https://progress-bar.dev/0)
+  - **Answers List:** 0/500 ![0%](https://progress-bar.dev/0)
   
 ## CREDITS
   - **Phạm Nhật Quang** (Legend0fHell)
