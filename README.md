@@ -13,9 +13,14 @@
   - Storing important notes and related files.
   - Storing answers to problems.
 
+* The language used will vary from person to person, but mainly will be:
+  - **C++** (For general purposes)
+  - **Pascal** (For beginners/easy problems)
+  - **Python3** (For problems that require processing big numbers etc.)
+
 ## CURRENT PROGRESS
-  - Problems List: 0/416 ![0%](https://progress-bar.dev/0)
-  - Answer List  : 0/500 ![0%](https://progress-bar.dev/0)
+  - **Problems List:** 0/416 ![0%](https://progress-bar.dev/0)
+  - **Answer List  :** 0/500 ![0%](https://progress-bar.dev/0)
   
 ## CREDITS
   - **Phạm Nhật Quang** (Legend0fHell)
