@@ -23,4 +23,4 @@
   - **Answers List:** 0/500 ![0%](https://progress-bar.dev/0)
   
 ## CREDITS
-  - **Phạm Nhật Quang** (Legend0fHell)
+  - **Phạm Nhật Quang** [Legend0fHell - Codefun](https://codefun.vn/profile/CYB20_21)
