@@ -3,8 +3,8 @@
 * Nói tiếng Anh cho ngầu.
 
 ## IMPORTANT NOTES
-* Sharing problems outside the boundary of the group is **PROHIBITED**.
-* Last updated at 09:43 - 31.08.2020
+* Sharing problems outside the boundary of the group is **NOT RECOMMENDED**.
+* Last updated at 15:55 - 01.09.2020
 
 ## GETTING STARTED
 * This repository consists of three parts:
