@@ -1,10 +1,9 @@
 # codefun_answers
-* Private Repository for Storing Codefun.vn Answers.
-* With love from iTeamCYB.
+* Private Repository for Storing Codefun.vn Related files.
 * Nói tiếng Anh cho ngầu.
 
 ## IMPORTANT NOTES
-* Sharing code outside the boundary of the group is **PROHIBITED**.
+* Sharing problems outside the boundary of the group is **PROHIBITED**.
 * Last updated at 09:43 - 31.08.2020
 
 ## GETTING STARTED
@@ -16,10 +15,9 @@
 * The language used will vary from person to person, but mainly will be:
   - **C++** (For general purposes)
   - **Pascal** (For beginners/easy problems)
-  - **Python3** (For problems that require processing big numbers etc.)
 
 ## CURRENT PROGRESS
-  - **Problem List:** 0/416 ![0%](https://progress-bar.dev/0)
+  - **Problem List:** 416/416 ![100%](https://progress-bar.dev/100)
   - **Answers List:** 0/500 ![0%](https://progress-bar.dev/0)
   
 ## CREDITS
