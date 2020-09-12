@@ -2,9 +2,10 @@
 * Private Repository for Storing Codefun.vn Related files.
 * Nói tiếng Anh cho ngầu.
 
-## DOWNLOAD GUIDE
+## USAGE
 * Download using **"Download ZIP"** in the "Code" button.
 * Thereotically, you could read the images online but they had been scaled up automatically by GitHub.
+* UPDATE 12.09: Uploaded Problems at Google Drive for better readability. [Google Drive Folder](https://drive.google.com/drive/folders/1ZG0JeScjrmGF689itVyWHe2_OEooFz26)
 
 ## IMPORTANT NOTES
 * In the folder **"Problems List [256 to 416]"**, the images **from 76.JPG to 99.JPG** are at the **bottom**.
